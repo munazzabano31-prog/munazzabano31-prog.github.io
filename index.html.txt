@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Munazza Bano | Portfolio</title>
+</head>
+<body>
+    <h1>Hello, I'm Munazza Bano 👋</h1>
+    <p>Teacher | BCS Student | Future AI Engineer</p>
+
+    <h2>About Me</h2>
+    <p>
+        Passionate about Python, AI, and building educational software.
+    </p>
+
+    <h2>Skills</h2>
+    <ul>
+        <li>Python</li>
+        <li>C / C++</li>
+        <li>HTML</li>
+        <li>AI Basics</li>
+    </ul>
+
+    <h2>Projects</h2>
+    <ul>
+        <li>Student Management System</li>
+        <li>Question Paper Generator</li>
+    </ul>
+</body>
+</html>
